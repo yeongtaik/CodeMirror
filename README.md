@@ -1,6 +1,8 @@
 # CodeMirror
 [![Build Status](https://travis-ci.org/codemirror/CodeMirror.svg)](https://travis-ci.org/codemirror/CodeMirror)
 [![NPM version](https://img.shields.io/npm/v/codemirror.svg)](https://www.npmjs.org/package/codemirror)
+[![DeepScan Grade](https://dev.deepscan.io/api/projects/593/branches/473/badge/grade.svg)](https://dev.deepscan.io/dashboard/#view=project&pid=593&bid=473)
+<a href="https://dev.deepscan.io/dashboard/#view=project&pid=593&bid=473"><img src="https://dev.deepscan.io/api/projects/593/branches/473/badge/grade.svg" alt="DeepScan Grade"></a>
 
 CodeMirror is a JavaScript component that provides a code editor in
 the browser. When a mode is available for the language you are coding
